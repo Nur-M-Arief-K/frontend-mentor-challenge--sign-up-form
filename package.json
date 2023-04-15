@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form",
+  "homepage": "https://github.com/nur-m-arief-k/frontend-mentor-challenge--sign-up-form",
   "name": "sign-up-form",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@hookform/error-message": "^2.0.1",
     "@testing-library/jest-dom": "^5.16.5",
