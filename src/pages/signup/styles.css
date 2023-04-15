@@ -1,0 +1,71 @@
+.signup-page {
+    min-height: 100vh;
+    padding: 4em 2em;
+    background-image: url('../../images/bg-intro-mobile.png');
+    background-color: var(--red);
+}
+
+.signup-page__container {
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: auto;
+}
+
+.signup-page__title {
+    font-size: 1.75em;
+    color: var(--white);
+    text-align: center;
+    margin-block: 1em;
+}
+
+.signup-page__subtitle {
+    font-size: 1em;
+    color: var(--white);
+    text-align: center;
+    margin-block: 1em;
+}
+
+.signup-page__pricing {
+    padding: 1em 3em;
+    margin-block: 3em 1em;
+    border-radius: 0.5em;
+    background-color: var(--blue);
+    text-align: center;
+    color: var(--white);
+    font-weight: thin;
+    box-shadow: 0 0.5em hsla(0, 0%, 29%, 0.2);
+}
+
+.signup-page__pricing__text {
+    display: inline;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+@media screen and (min-width: 750px) {
+    .signup-page {
+        padding-block: 0;
+    }
+    
+    .signup-page__container {
+        gap: 2em;
+        padding-inline: 4em;
+        grid-template-rows: auto;
+        grid-template-columns: auto auto;
+    }
+
+    .signup-page__banner {
+        margin-block: auto;
+    }
+
+    .signup-page__title {
+        text-align: start;
+    }
+    
+    .signup-page__subtitle {
+        text-align: start;
+    }
+    
+}

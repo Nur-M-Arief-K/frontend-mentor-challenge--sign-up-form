@@ -1,0 +1,95 @@
+.form-control {
+    display: block;
+    position: relative;
+    margin-block: 1em;
+    color: #000;
+}
+
+.form-control--error {
+    display: block;
+    position: relative;
+    margin-block: 1em;
+    color: var(--red);
+}
+
+.form-control__input {
+    display: block;
+    width: 100%;
+    padding: 1.25em;
+    border-radius: 0.5em;
+    border-color: var(--grayish-blue);
+    border-radius: 0.5em;
+    border-style: solid;
+}
+
+.form-control__input:focus {
+    border-color: #000;
+}
+
+.form-control__input--error {
+    display: block;
+    width: 100%;
+    padding: 1.25em;
+    border-color: var(--red);
+    border-radius: 0.5em;
+    border-style: solid;
+    color: var(--red);
+}
+
+.form-control__label {
+    position: absolute;
+    top: 1em;
+    left: 1.25em;
+    color: var(--dark-blue);
+    font-weight: bold;
+    cursor: text;
+    transition: all 0.3s;
+}
+
+.form-control__input--error + .form-control__label {
+    color: var(--red);
+}
+
+.form-control__input--error:focus {
+    border-color: var(--red);
+}
+
+.form-control__input:focus + .form-control__label {
+    top: 0.3em;
+    font-size: 0.6em;
+}
+
+
+.form-control__input--error:focus + .form-control__label {
+    color: var(--red);
+    top: 0.3em;
+    font-size: 0.6em;
+}
+
+.form-control__label--float {
+    position: absolute;
+    top: 0.3em;
+    left: 1.25em;
+    font-size: 0.6em;
+    color: var(--dark-blue);
+    font-weight: bold;
+    cursor: text;
+    transition: all 0.3s;
+}
+
+.form-control__input--error + .form-control__label--float {
+    color: var(--red);
+}
+
+.form-control-error-description {
+    color: var(--red);
+    border-color: var(--red);
+    font-size: 0.7em;
+    text-align: right;
+}
+
+.form-control__icon-error {
+    position: absolute;
+    right: 5%;
+    top: 25%;
+}

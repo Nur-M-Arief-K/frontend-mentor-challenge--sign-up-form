@@ -1,0 +1,7 @@
+.form {
+    border-radius: 0.5em;
+    margin-block: 2em;
+    padding: 1em;
+    box-shadow: 0 0.5em hsla(0, 0%, 29%, 0.2);
+    background-color: var(--white);
+}

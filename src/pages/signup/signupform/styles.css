@@ -1,0 +1,12 @@
+.sign-up-form__terms-and-service {
+    font-size: 0.8em;
+    color: var(--grayish-blue);
+    text-align: center;
+    margin-block: 1em;
+}
+
+.sign-up-form__terms-and-service-link {
+    color: var(--red);
+    font-weight: bold;
+    cursor: pointer;
+}

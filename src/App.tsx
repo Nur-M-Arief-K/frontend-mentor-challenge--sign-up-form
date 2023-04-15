@@ -1,7 +1,9 @@
+import SignUp from "./pages/signup/SignUp";
+
 function App() {
   return (
     <div className="App">
-      <h1>SIGN UP FORM</h1>
+      <SignUp />
     </div>
   );
 }
