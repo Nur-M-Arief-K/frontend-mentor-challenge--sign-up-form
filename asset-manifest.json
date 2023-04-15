@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/css/main.88b15934.css",
-    "main.js": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/js/main.ef1c5a59.js",
-    "static/js/787.d38b7b1a.chunk.js": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/js/787.d38b7b1a.chunk.js",
-    "static/media/bg-intro-mobile.png": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
-    "index.html": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/index.html",
-    "static/media/icon-error.svg": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
-    "main.88b15934.css.map": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/css/main.88b15934.css.map",
-    "main.ef1c5a59.js.map": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/js/main.ef1c5a59.js.map",
-    "787.d38b7b1a.chunk.js.map": "/nur-m-arief-k/frontend-mentor-challenge--sign-up-form/static/js/787.d38b7b1a.chunk.js.map"
+    "main.css": "/frontend-mentor-challenge--sign-up-form/static/css/main.80cf85e7.css",
+    "main.js": "/frontend-mentor-challenge--sign-up-form/static/js/main.eee790d6.js",
+    "static/js/787.d38b7b1a.chunk.js": "/frontend-mentor-challenge--sign-up-form/static/js/787.d38b7b1a.chunk.js",
+    "static/media/bg-intro-mobile.png": "/frontend-mentor-challenge--sign-up-form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/frontend-mentor-challenge--sign-up-form/index.html",
+    "static/media/icon-error.svg": "/frontend-mentor-challenge--sign-up-form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
+    "main.80cf85e7.css.map": "/frontend-mentor-challenge--sign-up-form/static/css/main.80cf85e7.css.map",
+    "main.eee790d6.js.map": "/frontend-mentor-challenge--sign-up-form/static/js/main.eee790d6.js.map",
+    "787.d38b7b1a.chunk.js.map": "/frontend-mentor-challenge--sign-up-form/static/js/787.d38b7b1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88b15934.css",
-    "static/js/main.ef1c5a59.js"
+    "static/css/main.80cf85e7.css",
+    "static/js/main.eee790d6.js"
   ]
 }
