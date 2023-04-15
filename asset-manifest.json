@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/css/main.cc4ba070.css",
+    "main.js": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/js/main.a648f117.js",
+    "static/js/787.d38b7b1a.chunk.js": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/js/787.d38b7b1a.chunk.js",
+    "static/media/bg-intro-mobile.png": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/index.html",
+    "static/media/icon-error.svg": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
+    "main.cc4ba070.css.map": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/css/main.cc4ba070.css.map",
+    "main.a648f117.js.map": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/js/main.a648f117.js.map",
+    "787.d38b7b1a.chunk.js.map": "/Nur-M-Arief-K/frontend-mentor-challenge--sign-up-form/static/js/787.d38b7b1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4ba070.css",
+    "static/js/main.a648f117.js"
+  ]
+}
